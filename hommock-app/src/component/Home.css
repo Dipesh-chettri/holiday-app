@@ -1,0 +1,253 @@
+.image-card{
+    /* margin-left: 80px; */
+    margin-top: 20px;
+    background-image: url('https://www.hammockholidays.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frewards.675f7382.webp&w=640&q=75');
+    border-radius: 30px;
+    background-size: cover;
+    padding: 10px;
+    height: 500px;
+    width: 420px;
+    text-align:justify;
+    /* padding: 90px; */
+    
+   
+}
+.home-body{
+    width: 80%;
+    margin: 0 auto;
+}
+.card-center{
+   
+    text-align: center;
+    margin-top: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 2px 4px rgb(0 0 0 / 40%);
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 23px;
+
+}
+.nav{
+    border: none;
+    font-size: 23px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+}
+.reward{
+ font-size: 70px;
+ font-weight: bold;
+ text-align: left;
+
+ color: white;
+}
+.coll-1{
+    background-image: url('https://www.hammockholidays.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDeals.64248ad4.webp&w=256&q=75');
+    border-radius: 40px;
+    background-size: cover;
+    height: 220px;
+    width: 200px;
+    margin-left: 10px;
+}
+.deals{
+    
+  color: white;
+  font-size: 26px;
+  font-weight: 800;
+  text-align: left;
+  margin-top: 60%;
+
+}
+.coll-1{
+    padding: 10px;
+    padding-top: 40px;
+}
+.coll-2{
+    background-image: url('https://www.hammockholidays.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustomize.74eb3f1b.webp&w=256&q=75');
+    border-radius: 40px;
+    background-size: cover;
+    height: 270px;
+    width: 220px;
+   
+    padding-top: 40px;
+    margin-left:-30px;
+  
+    
+    
+}
+.deals1{
+    
+    text-align: center;
+    border: 1px solid black;
+    padding: 13px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 43px;
+    box-sizing: border-box;
+    text-align:center;
+    color: #fff;
+    text-shadow: 0 2px 4px rgb(0 0 0 / 40%);
+    font-size: 18px;
+    font-weight: 700;
+    height: 60px;
+    width: 150px;
+}
+.deals4{
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+   text-align: center;
+   
+    margin-top: 60%;
+    
+    
+   
+}
+.Customize{
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+   text-align: center;
+   min-height: fit-content;
+    margin-top: 60%;
+   
+    
+     
+}
+.MyHoliday{
+    color: white;
+    font-size: 32px;
+    font-weight: 900;
+   text-align: center; 
+  
+ 
+}
+.deals4 span{
+    color: white;
+    font-size: 25;
+    line-height-step: 10px; text-align: left !important;
+    font-weight: 600;
+    margin-bottom: -10px !important;
+}
+.h3{
+    text-align:left;
+    color: blue;
+    font-size: 40px;
+   
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-left: 10%;
+}
+
+.deals2{
+    
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 40px;
+    box-sizing: border-box;
+    text-align:center;
+    color: #fff;
+    text-shadow: 0 2px 4px rgb(0 0 0 / 40%);
+    font-size: 18px;
+    font-weight: 700;
+    height: 60px;
+    width: 120px;
+
+
+}
+.coll-3{
+    background-image: url('https://www.hammockholidays.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbharath.291feb0f.webp&w=256&q=75');
+    border-radius: 40px;
+    background-size: cover;
+    height: 240px;
+    width: 220px;
+    padding: 0px;
+    padding-top: 40px;
+    margin-left:-50px;
+    margin-top: 10px;
+    
+}
+.Bharat{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+   
+}
+.coll4{
+    background-image: url('https://www.hammockholidays.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finternational.f7d70dee.webp&w=256&q=75');
+    border-radius: 40px;
+    background-size: cover;
+    height: 260px;
+    width: 220px;
+    padding-top: 45px;
+    margin-top:-40px;
+    position: absolute;
+    margin-left: 10px;
+    
+}
+
+
+.coll5{ 
+    background-image: url('https://www.hammockholidays.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvisas.cbb41992.webp&w=256&q=75');
+    border-radius: 40px;
+    background-size: cover;
+    height: 210px;
+    width: 200px;
+    padding-top: 45px;
+    margin-top:10px;
+    position: absolute;
+    margin-left: 249px;
+
+}
+.coll6{ 
+    background-image: url('https://www.hammockholidays.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FfunOuter.c7747fb5.webp&w=256&q=75');
+    border-radius: 40px;
+    background-size: cover;
+    height: 230px;
+    width: 220px;
+    padding-top: 45px;
+    margin-top:-10px;
+    position: absolute;
+    margin-left: 490px;
+
+}
+.card2{
+    height: 450px;
+    width: 400px;
+    margin: 10px;
+    margin-right: 20px;
+}
+.card3{
+    height: 450px;
+    width: 400px;
+    margin: 10px;
+    margin-right: 20px;
+}
+.imglast{
+    height: 450px;
+    width: 400px;
+    margin: 10px;
+    margin-right: 20px; 
+    border-radius: 40px 40px 0pc 0px;
+}
+.imgfirst{
+    height: 450px;
+    width: 400px;
+    margin: 10px;
+    margin-right: 20px; 
+    border-radius: 0px 40px 0pc 0px;
+}
+.imgmiddle{
+    height: 450px;
+    width: 400px;
+    margin: 10px;
+    margin-right: 20px; 
+    border-radius: 40px 40px 0pc 0px;
+}

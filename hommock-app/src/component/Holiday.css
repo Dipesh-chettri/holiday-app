@@ -1,0 +1,19 @@
+.holiday-container ul{
+    display:flex;
+    list-style:none;
+    height: 50px;
+    text-align: center;
+    font-style: bold;
+    padding-left: 30px;
+    width: 100%;
+    margin-top: 10px;
+
+}
+.holiday-container ul li{
+    margin: 10px;
+    margin-right: 80px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: lightslategrey;
+}

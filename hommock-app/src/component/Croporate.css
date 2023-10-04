@@ -1,0 +1,23 @@
+.coporateNav ul{
+display:flex;
+list-style:none;
+padding-left: 0px;
+height: 50px;
+text-align: center;
+font-style: bold;
+padding-bottom: 50px;
+width: 100%;
+margin-top: 10px;
+}
+.coporateNav ul li{
+    margin: 25px;
+    margin-right: 60px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: lightslategrey;
+}
+.corparate .coporateNav{
+    text-align: center;
+    padding-left: 60px;
+}

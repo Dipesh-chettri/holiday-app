@@ -1,0 +1,128 @@
+.App {
+  text-align: center;
+  background-color: aqua;
+  width: 98%;
+  margin: 0 auto;
+  overflow: hidden;
+ 
+
+}
+
+.nav{
+  width: 100%;
+  overflow: none;
+  border-bottom: 1px solid blue;
+ 
+  
+
+}
+
+.nav ul{
+  display: flex;
+  list-style:none;
+  padding-left: 0px;
+  height: 50px;
+  text-align: center;
+  font-style: bold;
+  padding-bottom: 50px;
+  width: 100%;
+  margin-top: 10px;
+}
+.nav ul li{
+  margin: 25px;
+  margin-right: 80px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 28px;
+  color: lightslategrey;
+  
+}
+
+.home-top-section{
+  background-image: url("https://www.shutterstock.com/image-photo/beach-midnight-full-moon-shining-260nw-324536516.jpg" );
+  background-size: cover;
+  background-repeat: no-repeat, no-repeat;
+  background-color: blue;
+  height: 240px;
+  width: 98%;
+  margin: 0 auto;
+ 
+  overflow: hidden;
+ display: flex;
+}
+.home-top-left{
+  padding: 30px;
+  margin-left: 30px;
+}
+.home-top-middle{
+  padding: 28px;
+  margin-left: 120px;
+  font-size: 37px;
+  color: white;
+  font-weight: bold;
+}
+
+span{
+  color: #03b2cb;
+  padding-left: 10px;
+}
+p{
+  font-size: 16px;
+}
+.input1{
+  height: 40px;
+  width: 350px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  color: lightgray;
+  text-align: left;
+  font-size: 15px;
+  border: none;
+ 
+  
+}
+.btn1{
+  height: 40px;
+  width: 90px;
+  font-size: 15px;
+  margin: 8px;
+  border: hidden;
+  border-radius: 15px;
+  color: white;
+  background-color: blue;
+  text-align: center;
+
+}
+.CiSearch{
+  background-color: white;
+  color: lightgray;
+  margin-right: -5px;
+  border: none;
+  width: 50px;
+  height: 40px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-top-right-radius: none;
+  border-bottom-right-radius: none;
+}
+.span-input{
+  height: 40px;
+  width: 400px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  color: lightgray;
+  text-align: left;
+  font-size: 15px;
+  border: none;
+}
+.HiBars3{
+  font-size: 30px;
+}
+.btn-HiBars3{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-top: 25px;
+  margin-left: 250px;
+  border: hidden;
+}
